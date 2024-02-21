@@ -8596,7 +8596,7 @@
     (property "Value" "4052" (at 181.2641 231.14 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_SO:TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm" (at 179.07 251.46 0)
+    (property "Footprint" "Package_SO:SOP-16_4.55x10.3mm_P1.27mm" (at 179.07 251.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4051bms-52bms-53bms.pdf" (at 179.07 251.46 0)
