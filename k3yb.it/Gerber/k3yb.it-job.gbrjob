@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "7.0.10"
     },
-    "CreationDate": "2024-02-09T15:32:17+01:00"
+    "CreationDate": "2024-04-02T12:04:45+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "k3yb.it",
       "GUID": "6b337962-2e69-4742-9e6b-696361645f70",
-      "Revision": "rev?"
+      "Revision": "v1.0b"
     },
     "Size": {
       "X": 454.7318,
