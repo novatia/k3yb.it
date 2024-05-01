@@ -1,0 +1,13 @@
+TODO K3yb.it!
+
+Versione Sandwich
+- Mettere maschera GND a pcb
+- Stampa del pcb colorato di nero non è venuta (Gerber?)
+- Non hanno stampato la serigrafia sul pcb (Gerber?/Layers)
+- Aggiungere legenda componenti sulla serigrafia
+- Aggiungere fori per montaggio stabilizer a PCB    -> DONE
+- Stabilizer comprati da Mouser component non vanno bene quelli dello spazio, sono troppo lunghi, gli altri vanno bene 5x board 2 e 1x 6.25. -> DONE kbrepublic
+- Aggiungere led mono colore 
+- Aggiungere led RGB
+- Aggiungere Display
+- Comprare batteria
