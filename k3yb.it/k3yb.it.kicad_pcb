@@ -14109,7 +14109,7 @@
 			(size 1 2.7)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(uuid "1d38fef0-8541-40b4-95f6-c751f1ae5cf4")
+			(uuid "fd9ebbde-2193-4824-84ea-acfc6f4fc2dc")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal.wrl"
