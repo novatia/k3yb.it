@@ -270,9 +270,12 @@ module bottom_part3()
 }
 
 // Scegli quale esportare
-plate_part1();
-plate_part2();
-plate_part3();
+projection(cut=false)
+    union(){
+        plate_part1();
+        plate_part2();
+        plate_part3();
+    }
 
 //spacer_part1();
 //spacer_part2();
